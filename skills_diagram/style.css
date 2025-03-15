@@ -14,6 +14,10 @@ h1 {
   margin: 0 0 20px 0;
 }
 
+#tester{
+  text-align: center;
+}
+
 /* Adding an underline effect */
 h1::after {
   content: "";
@@ -30,9 +34,10 @@ h3 {
   font-size: 1.75rem; /* Make the text slightly bigger */
   font-weight: 600; /* Semi-bold text */
   color: #333; /* Dark color for better readability */
-  margin-bottom: 20px; /* Space below the title */
+  margin-bottom: 30px; /* Space below the title */
   text-transform: capitalize; /* Capitalize the first letter of each word */
   letter-spacing: 0.5px; /* Slight letter spacing for a modern look */
+  text-align: center;
 }
 
 /* Optional: Add some hover effect */
@@ -52,6 +57,7 @@ h3:hover {
 
 /* Style for the skill diagram section */
 #tester1 {
+  margin-left: 1.67%;
   background: white;
   border-radius: 15px; /* Rounded corners */
   padding: 20px; /* Padding inside the div */
