@@ -1,0 +1,30 @@
+[
+  {
+    "skill": "Python",
+    "percentage": 90
+  },
+  {
+    "skill": "GIS",
+    "percentage": 85
+  },
+  {
+    "skill": "Data Analysis",
+    "percentage": 80
+  },
+  {
+    "skill": "Machine Learning",
+    "percentage": 75
+  },
+  {
+    "skill": "GIS",
+    "percentage": 85
+  },
+  {
+    "skill": "Data Analysis",
+    "percentage": 80
+  },
+  {
+    "skill": "Machine Learning",
+    "percentage": 75
+  }
+]
