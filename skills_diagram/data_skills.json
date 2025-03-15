@@ -1,11 +1,11 @@
 {"data":[{
   "ids" : "Soft Skills",
   "labels" : "Soft Skills",
-  "parents" : null
+  "parents" : "Skills"
 },
 {
-  "ids" : "Hard Skills",
-  "labels" : "Hard Skills",
+  "ids" : "Skills",
+  "labels" : "Skills",
   "parents" : null
 },
 {
@@ -51,62 +51,62 @@
 {
   "ids" : "Hard Skills-Geospatial Technology",
   "labels" : "Geospatial Technology",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-Data Science",
   "labels" : "Data Science",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-Database",
   "labels" : "Database",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-Programming Language",
   "labels" : "Programming Language",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-IDE",
   "labels" : "IDE",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-Web Development",
   "labels" : "Web Development",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-BI tools",
   "labels" : "BI tools",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-Version Control",
   "labels" : "Version Control",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-Cloud",
   "labels" : "Cloud",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-Mathematics",
   "labels" : "Mathematics",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-Computer Aided Design",
   "labels" : "Computer Aided Design",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Hard Skills-Machine Learning",
   "labels" : "Machine Learning",
-  "parents" : "Hard Skills"
+  "parents" : "Skills"
 },
 {
   "ids" : "Geospatial Technology-ArcGIS Suite",

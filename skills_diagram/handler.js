@@ -1,5 +1,5 @@
 // Fetch JSON file from the project directory
-fetch("data_skills.json") // Replace with the correct path to your JSON file
+fetch("https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/skills_diagram/data_skills.json") // Replace with the correct path to your JSON file
   .then((response) => response.json())
   .then((json) => {
     // Extract data from JSON
@@ -52,7 +52,7 @@ fetch("data_skills.json") // Replace with the correct path to your JSON file
 
 
   // Fetch data from the local data_top_skills.json file
-fetch('data_top_skills.json')
+fetch("https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/skills_diagram/data_top_skills.json")
 .then(response => response.json())
 .then(data => {
   // Get the container where the skills will be displayed
@@ -79,4 +79,3 @@ fetch('data_top_skills.json')
   });
 })
 .catch(error => console.error('Error fetching skills data:', error));
-
