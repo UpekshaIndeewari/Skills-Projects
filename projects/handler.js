@@ -42,9 +42,6 @@ fetch("data_projects.json")
                 <p class="card-text mb-1 mt-3">Skills</p>
                 ${skillsBadges}
               </div>
-              <div class="card-footer">
-                <small class="text-body-secondary">Last updated ${item.updatedate}</small>
-              </div>
             </div>
           </a>
         `;
