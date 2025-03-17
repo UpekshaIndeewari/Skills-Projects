@@ -249,11 +249,6 @@
   "parents" : "Hard Skills-BI tools"
 },
 {
-  "ids" : "BI tools-BI Tools",
-  "labels" : "BI Tools",
-  "parents" : "Hard Skills-BI tools"
-},
-{
   "ids" : "BI tools-Trello",
   "labels" : "Trello",
   "parents" : "Hard Skills-BI tools"

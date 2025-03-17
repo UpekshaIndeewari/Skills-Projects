@@ -1,4 +1,4 @@
-fetch("https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/data_projects.json")
+fetch("data_projects.json")
   .then((response) => response.json())
   .then((data) => {
     // console.log(data);
@@ -68,3 +68,4 @@ fetch("https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/Upek
   })
   .catch((error) => console.error("Error fetching data:", error));
 
+//"https://api.allorigins.win/raw?url=https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/data_projects.json"

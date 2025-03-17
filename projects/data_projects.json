@@ -1,6 +1,6 @@
 [
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/MasterThesis.PNG",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/MasterThesis.PNG",
     "title": "EO4GEO BOK Annotation for GI Resources - Master Thesis",
     "skills": [
       "Python",
@@ -13,7 +13,7 @@
     "category": "Data Science"
   },
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/ML_landuse.png",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/7.png",
     "title": "Machine Learning Approaches for Land Use Land Cover Classification",
     "skills": ["Python", "Machine Learning", "ArcGIS Pro", "Landuse dynamics"],
     "link": "https://github.com/UpekshaIndeewari/Machine-Learning-Approaches-for-Land-Use-Land-Cover-Classification",
@@ -21,7 +21,7 @@
     "category": "Data Science"
   },
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/GGE_landuse.png",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/6.jpg",
     "title": "Application of Google Earth Engine (GEE) for Landuse Classification and Monitoring Change Detection",
     "skills": [
       "Google Earth Engine",
@@ -35,7 +35,7 @@
     "category": "Remote Sensing"
   },
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/Remote_colong.png",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/2.png",
     "title": "Integration of Remote Sensing and GIS Techniques for Monitoring Urban Growth and Land Use Conflicts in Cologne, Germany (2000-2022): A Geospatial Approach",
     "skills": [
       "ArcGIS Pro",
@@ -48,7 +48,7 @@
     "category": "Remote Sensing"
   },
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/drought.png",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/1.jpg",
     "title": "Spatial and Temporal Variation of Climate on Drought Hazard",
     "skills": [
       "Remote Sensing",
@@ -62,7 +62,7 @@
     "category": "Remote Sensing"
   },
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/Lanuduse_Hambantota.png",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/3.jpeg",
     "title": "Analysis of Land Use Dynamics in Hambantota, Sri Lanka (2008-2019): A GIS and Remote Sensing Approach",
     "skills": [
       "Remote Sensing",
@@ -76,7 +76,7 @@
     "category": "Remote Sensing"
   },
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/R_Weather.png",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/4.jpg",
     "title": "R Package Development for Comprehensive Weather Data Analysis Using OpenWeatherMap API",
     "skills": ["R", "Geospatial Visualization", "R Package Development"],
     "link": "https://github.com/UpekshaIndeewari/R-Package-Development-for-Comprehensive-Weather-Data-Analysis-Using-OpenWeatherMap-API",
@@ -84,7 +84,7 @@
     "category": "Data Science"
   },
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/SQL.png",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/5.jpg",
     "title": "Assessment of Surrounding Locations with respect to the Blasting locations of Proposed Highway Construction Project UsingPostGIS",
     "skills": [
       "Database Management",
@@ -98,7 +98,7 @@
     "category": "DBMS"
   },
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/Rainfall.png",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/7.jpg",
     "title": "Influence of Indian Ocean warming on rainfall of Sri Lanka",
     "skills": ["MATLAB", "Climate Studies", "Data Science"],
     "link": "https://www.semanticscholar.org/paper/Influence-of-Indian-Ocean-warming-on-rainfall-of-Kajakokulan-Pathirana/76332f85ee6ec64bdba4b78757f70b0caa5c9ab7",
@@ -106,7 +106,7 @@
     "category": "Data Science"
   },
   {
-    "imageurl": "https://github.com/UpekshaIndeewari/Skills-Projects/blob/main/projects/images/Enhancement%20of%20Sri%20Lankan%20rainfall%20due%20to%20Indian%20ocean%20warming.png",
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/8.jpg",
     "title": "Enhancement of Sri Lankan rainfall due to Indian ocean warming",
     "skills": ["MATLAB", "Climate Studies", "Data Science"],
     "link": "https://www.researchgate.net/publication/371125392_Enhancement_of_Sri_Lankan_rainfall_due_to_Indian_ocean_warming",
