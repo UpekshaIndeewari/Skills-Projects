@@ -84,6 +84,21 @@
     "category": "Data Science"
   },
   {
+    "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/10.jpg",
+    "title": "Data-Driven Insights on Natural Gas in the European Economic Area (1991-2020) Using ETL & Data Visualization",
+    "skills": [
+      "Python",
+      "FME",
+      "Pandas",
+      "GeoPandas",
+      "Matplotlib",
+      "Seaborn"
+    ],
+    "link": "https://github.com/UpekshaIndeewari/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization/tree/main",
+    "updatedate": "3 mins ago",
+    "category": "Data Science"
+  },
+  {
     "imageurl": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/projects/images/5.jpg",
     "title": "Assessment of Surrounding Locations with respect to the Blasting locations of Proposed Highway Construction Project UsingPostGIS",
     "skills": [
